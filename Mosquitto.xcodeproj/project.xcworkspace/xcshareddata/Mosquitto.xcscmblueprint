@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f29ba06a-31c8-a64e-9dbc-0778a1ced372++476",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f29ba06a-31c8-a64e-9dbc-0778a1ced372++476" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f29ba06a-31c8-a64e-9dbc-0778a1ced372++476" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CE35761D-ACF3-42BC-9071-7A0038801C64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f29ba06a-31c8-a64e-9dbc-0778a1ced372++476" : "Platform-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mosquitto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mosquitto-lib\/mosquittoLib\/Mosquitto.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.magnasoft.com\/svn\/Magnasoft",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f29ba06a-31c8-a64e-9dbc-0778a1ced372++476"
+    }
+  ]
+}
